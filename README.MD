@@ -5,7 +5,7 @@
 
 ## ☕ Rodando aplicação
 
-```go
+```sh
 // pré definidos
 $ make run-decrypt
 // ou
@@ -18,6 +18,6 @@ $ go run *.go decrypt private.txt source_encoded.txt target_decoded.txt
 
 ## 🧪 Testando aplicação
 
-```go
+```sh
 $ make test
 ```
